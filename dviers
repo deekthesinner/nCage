@@ -3,9 +3,19 @@
 
     var self = {
         nCageImgs: [
-		'http://s13.postimg.org/jhchiyco7/Tslone1.jpg',
-		'http://s14.postimg.org/578xvcq0x/Tslone2.jpg',
-		'http://s23.postimg.org/b56rgipp7/Tslone3.jpg',
+		'http://i.ytimg.com/vi/r1K8px_beOk/mqdefault.jpg',
+		'http://i.ytimg.com/vi/TH4XDlcGxsk/maxresdefault.jpg',
+		'http://i1.ytimg.com/vi/1_f_-nwpu6E/0.jpg',
+		'http://i.ytimg.com/vi/NVRHBedkb5Y/hqdefault.jpg',
+		'http://i.ytimg.com/vi/-JYypsmLOos/hqdefault.jpg',
+		'http://i.ytimg.com/vi/SXqCiuBfAMM/hqdefault.jpg',
+		'http://i37.servimg.com/u/f37/17/47/37/30/img01911.jpg',
+		'http://i.ytimg.com/vi/aAGnA0WxbKE/maxresdefault.jpg',
+		'http://i.ytimg.com/vi/NmXPSH8i8lI/0.jpg',
+		'http://img.youtube.com/vi/Gh1DJAv1mDA/mqdefault.jpg',
+		'http://i.ytimg.com/vi/-ozXgsMQG8Y/mqdefault.jpg',
+		'http://www.roadkill.com/wp-content/uploads/avatars/1406/ab0836ab853ff337eb12443247c5d81e-bpfull.jpg',
+		'http://s17.postimg.org/los65u3wt/dennis.gif'
         ],
         handleImages: function (lstImgs, time) {
             $.each($('img'), function (i, item) {
